@@ -13,7 +13,7 @@
   ## Description 
 This project was creating a text editor that runs in the browser using webpack. This application can run offline. Webpack allows us to serve files statically. We also user a package called idb which uses the IndexedDB API.  Finally this application will be served in Heroku.
 
-[Starting the application](https://youtu.be/Udp0Ewtl0eQ)
+[Application Heroku!](https://dry-sands-48885.herokuapp.com/)
 
 
 run the follow commands to start the application
